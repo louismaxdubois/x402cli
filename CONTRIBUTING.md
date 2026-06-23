@@ -10,7 +10,7 @@ Thank you for your interest. This is an early-stage experimental project.
 
 ## What we accept
 
-- Documentation improvements (README, docs/)
+- Documentation improvements (README, docs/, examples/)
 - Issue reports with clear reproduction steps
 - Suggestions for CLI behavior and agent output format
 - API registry metadata proposals

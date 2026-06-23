@@ -1,0 +1,9 @@
+{
+  "error": "Payment Required",
+  "protocol": "x402",
+  "network": "base",
+  "asset": "USDC",
+  "amount": "0.001",
+  "resource": "/weather",
+  "description": "Demo HTTP 402 response for x402 CLI documentation."
+}

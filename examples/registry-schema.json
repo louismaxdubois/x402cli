@@ -1,0 +1,12 @@
+{
+  "name": "Weather API",
+  "category": "Data",
+  "endpoint": "https://api.example.com/weather",
+  "network": "base",
+  "asset": "USDC",
+  "price": "0.001",
+  "paymentProtocol": "x402",
+  "mcpReady": "demo",
+  "status": "demo",
+  "description": "Example paid weather endpoint using HTTP 402."
+}

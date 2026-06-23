@@ -1,0 +1,13 @@
+$ x402cli inspect https://api.x402cli.xyz/weather
+
+HTTP Status: 402 Payment Required
+Payment-Network: base
+Payment-Asset: USDC
+Payment-Amount: 1000
+Payment-Scheme: exact
+Protocol: x402
+Resource: /weather
+MCP Ready: demo
+Requirements parsed successfully
+
+Note: Example inspect output for documentation. Real CLI inspection is planned.

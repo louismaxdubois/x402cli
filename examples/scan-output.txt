@@ -1,0 +1,13 @@
+$ x402cli scan https://api.x402cli.xyz/weather
+
+Scanning endpoint...
+Checking HTTP response...
+402 Payment Required detected
+Network: Base
+Asset: USDC
+Price: 0.001 USDC
+Protocol: x402
+MCP Ready: Demo
+Agent Workflow: Planned
+
+Note: This is a simulated scanner output for documentation. No real network request is made in the current static version.

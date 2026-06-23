@@ -1,0 +1,12 @@
+$ x402cli demo
+
+Starting x402 payment flow demo...
+
+1. Request → 402 Payment Required
+2. Parse payment requirements
+3. Prepare USDC transfer on Base
+4. Retry request with payment proof
+
+Demo complete — no real payment executed
+
+Note: Simulated flow for documentation only.

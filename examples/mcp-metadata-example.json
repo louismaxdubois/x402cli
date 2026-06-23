@@ -1,0 +1,13 @@
+{
+  "toolName": "Weather API",
+  "category": "Data",
+  "description": "Example API metadata prepared for future MCP-ready agent workflows.",
+  "payment": {
+    "protocol": "x402",
+    "network": "base",
+    "asset": "USDC",
+    "price": "0.001"
+  },
+  "mcpReady": "demo",
+  "status": "documentation-only"
+}
