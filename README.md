@@ -14,6 +14,30 @@ It focuses on HTTP 402 payment inspection, API registry exploration, Base + USDC
 
 https://x402cli.xyz
 
+## Community Token — $X402CLI
+
+**$X402CLI** is the community token for x402 CLI — live on **Base**. It exists to help grow the ecosystem around x402 API discovery, builder tooling, and agent-ready payment workflows on Base.
+
+Holding or trading $X402CLI is optional and not required to use the website, docs, or planned CLI. If you choose to participate, do your own research and only use funds you can afford to lose.
+
+| | |
+|---|---|
+| **Network** | Base |
+| **Symbol** | `$X402CLI` |
+| **Contract** | `0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3` |
+
+### Trade $X402CLI
+
+| Platform | Link |
+|----------|------|
+| BANKR | [bankr.bot/launches](https://bankr.bot/launches/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+| GMGN.AI | [gmgn.ai/base/token](https://gmgn.ai/base/token/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+| Uniswap | [Swap on Uniswap](https://app.uniswap.org/swap?chain=base&outputCurrency=0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+| Dexscreener | [Chart on Dexscreener](https://dexscreener.com/base/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+| PancakeSwap | [Swap on PancakeSwap](https://pancakeswap.finance/swap?chain=base&outputCurrency=0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+
+Follow **[@x402cli on X](https://x.com/x402cli)** for token updates, launches, and project news.
+
 ## Repository Scope
 
 This public repository contains documentation, examples, schemas, roadmap notes, and public project references.
@@ -68,6 +92,7 @@ Builder Code support is research/planned only. x402 CLI does not currently appen
 |---------|------|
 | Website | [x402cli.xyz](https://x402cli.xyz) |
 | Demo API | [api.x402cli.xyz](https://api.x402cli.xyz) |
+| Token ($X402CLI) | [Dexscreener](https://dexscreener.com/base/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
 | X (updates) | [@x402cli](https://x.com/x402cli) |
 | GitHub | [louismaxdubois/x402cli](https://github.com/louismaxdubois/x402cli) |
 
