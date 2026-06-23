@@ -5,7 +5,8 @@
     "price": "0.001 USDC/request",
     "network": "Base",
     "status": "Demo",
-    "mcpReady": "Demo"
+    "mcpReady": "Demo",
+    "builderCode": "Planned"
   },
   {
     "name": "Market Data API",
@@ -13,7 +14,8 @@
     "price": "0.002 USDC/request",
     "network": "Base",
     "status": "Demo",
-    "mcpReady": "Planned"
+    "mcpReady": "Planned",
+    "builderCode": "Planned"
   },
   {
     "name": "Agent Tool API",
@@ -21,7 +23,8 @@
     "price": "0.005 USDC/request",
     "network": "Base",
     "status": "Demo",
-    "mcpReady": "Demo"
+    "mcpReady": "Demo",
+    "builderCode": "Research"
   },
   {
     "name": "Content API",
@@ -29,6 +32,7 @@
     "price": "0.001 USDC/request",
     "network": "Base",
     "status": "Demo",
-    "mcpReady": "Planned"
+    "mcpReady": "Planned",
+    "builderCode": "Planned"
   }
 ]

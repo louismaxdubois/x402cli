@@ -10,6 +10,7 @@ x402 CLI is in early experimental development.
 * Command documentation
 * API metadata schema
 * MCP-ready workflow research
+* Builder Codes metadata research
 * Public documentation repo
 
 ## Not live yet
@@ -17,6 +18,7 @@ x402 CLI is in early experimental development.
 * Installable CLI package
 * Real payment execution
 * Official MCP server
+* Real Builder Code settlement integration
 * MPP / Tempo integration
 * Production API registry backend
 

@@ -16,12 +16,14 @@ Focus areas:
 * HTTP 402 inspection
 * Base + USDC payment flow exploration
 * MCP-ready documentation
+* Builder Code / ERC-8021 attribution research
 * Future agent workflows
 
 ## What it is not
 
 * Not an official Coinbase, Base, or x402 project
 * Not a live MCP server
+* Not real Builder Code settlement integration
 * Not a production payment processor
 * Not a published CLI package yet
 

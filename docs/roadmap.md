@@ -53,6 +53,18 @@ Early-stage experimental project. Phases are indicative — not commitments.
 
 ---
 
+## Builder Codes / ERC-8021 Attribution Research
+
+- Registry metadata for Builder Code attribution fields
+- ERC-8021 Schema 2 documentation research
+- No real settlement integration
+
+**Status:** Research
+
+See [builder-codes.md](builder-codes.md)
+
+---
+
 ## Phase 6 — MPP / Tempo compatibility research
 
 - Track machine payment protocol compatibility

@@ -1,0 +1,10 @@
+{
+  "name": "Weather API",
+  "paymentProtocol": "x402",
+  "network": "base",
+  "asset": "USDC",
+  "builderCode": "bc_example",
+  "attributionStandard": "ERC-8021 Schema 2",
+  "status": "documentation-only",
+  "note": "Example Builder Code metadata for future x402 CLI registry research."
+}

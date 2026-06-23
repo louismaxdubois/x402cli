@@ -6,7 +6,7 @@
 
 x402 CLI is an experimental discovery and testing layer for x402-powered APIs on Base.
 
-It focuses on HTTP 402 payment inspection, API registry exploration, Base + USDC payment flow research, and future MCP-ready agent workflows.
+It focuses on HTTP 402 payment inspection, API registry exploration, Base + USDC payment flow research, future MCP-ready agent workflows, and Builder Code / ERC-8021 attribution research.
 
 > Status: early experimental development.
 
@@ -27,6 +27,7 @@ The production website frontend source is not included in this repository at thi
 * Base + USDC payment flow exploration
 * API registry metadata
 * MCP-ready agent workflow research
+* Builder Codes / ERC-8021 attribution research
 * MPP / Tempo compatibility research
 
 ## Planned Commands
@@ -36,10 +37,13 @@ x402cli scan <url>
 x402cli inspect <url>
 x402cli registry
 x402cli mcp <api>
+x402cli builder-code <api>
 x402cli demo
 ```
 
 The installable CLI package is planned — not live yet. See [docs/commands.md](docs/commands.md).
+
+Builder Code support is research/planned only. x402 CLI does not currently append Builder Codes to real x402 settlement transactions.
 
 ## Documentation
 
@@ -51,6 +55,7 @@ The installable CLI package is planned — not live yet. See [docs/commands.md](
 | [Registry](docs/registry.md) | API registry preview |
 | [Registry Schema](docs/registry-schema.md) | Registry entry schema |
 | [MCP-ready Workflows](docs/mcp-ready-workflows.md) | Agent workflow research |
+| [Builder Codes Research](docs/builder-codes.md) | ERC-8021 attribution metadata |
 | [MPP / Tempo Research](docs/mpp-tempo-research.md) | Future compatibility research |
 | [API Metadata](docs/api-metadata.md) | Payment and agent metadata |
 | [Roadmap](docs/roadmap.md) | Development phases |
