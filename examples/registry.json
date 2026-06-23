@@ -1,0 +1,68 @@
+{
+  "version": "0.3.0",
+  "status": "demo",
+  "network": "base",
+  "note": "Static registry preview for x402 CLI. Demo data only — not a live backend registry. No real payment execution.",
+  "entries": [
+    {
+      "id": "weather-api",
+      "name": "Weather API",
+      "category": "Data",
+      "endpoint": "https://api.x402cli.xyz/weather",
+      "network": "base",
+      "asset": "USDC",
+      "price": "0.001",
+      "paymentProtocol": "x402",
+      "mcpReady": "demo",
+      "builderCode": "planned",
+      "attributionStandard": "ERC-8021 research",
+      "status": "demo",
+      "description": "Example paid weather endpoint using HTTP 402."
+    },
+    {
+      "id": "market-data-api",
+      "name": "Market Data API",
+      "category": "Finance",
+      "endpoint": "https://api.x402cli.xyz/market",
+      "network": "base",
+      "asset": "USDC",
+      "price": "0.002",
+      "paymentProtocol": "x402",
+      "mcpReady": "planned",
+      "builderCode": "planned",
+      "attributionStandard": "ERC-8021 research",
+      "status": "demo",
+      "description": "Example market data endpoint with x402 payment requirements on Base."
+    },
+    {
+      "id": "agent-tool-api",
+      "name": "Agent Tool API",
+      "category": "AI Agent",
+      "endpoint": "https://api.x402cli.xyz/agent",
+      "network": "base",
+      "asset": "USDC",
+      "price": "0.005",
+      "paymentProtocol": "x402",
+      "mcpReady": "demo",
+      "builderCode": "research",
+      "attributionStandard": "ERC-8021 research",
+      "status": "demo",
+      "description": "Example agent tool endpoint for MCP-ready workflow research."
+    },
+    {
+      "id": "content-api",
+      "name": "Content API",
+      "category": "Content",
+      "endpoint": "https://api.x402cli.xyz/content",
+      "network": "base",
+      "asset": "USDC",
+      "price": "0.001",
+      "paymentProtocol": "x402",
+      "mcpReady": "planned",
+      "builderCode": "planned",
+      "attributionStandard": "ERC-8021 research",
+      "status": "demo",
+      "description": "Example content delivery endpoint using HTTP 402."
+    }
+  ]
+}

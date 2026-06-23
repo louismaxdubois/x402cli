@@ -9,21 +9,25 @@ Early-stage experimental project. Phases are indicative — not commitments.
 - Interactive terminal UI and endpoint scanner mock
 - Registry preview with category filters
 
-**Status:** Current
+**Status:** Completed
 
 ---
 
 ## Phase 2 — Registry schema and x402 metadata
 
-- Registry entry schema
-- x402 metadata documentation
+- Registry entry schema with `id` and v0.3 fields
+- Public registry JSON example
+- API detail page documentation
 - MCP-ready field research
+- Builder Code attribution field research
 
-**Status:** Current / In Progress
+**Status:** Completed
+
+See [registry-metadata-layer.md](registry-metadata-layer.md)
 
 ---
 
-## Phase 3 — HTTP 402 response parser research
+## Phase 3 — Real HTTP 402 parser research
 
 - HTTP probe with 402 detection
 - x402 response parser (JSON + headers)

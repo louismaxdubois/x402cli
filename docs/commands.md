@@ -22,6 +22,18 @@ Example output: [examples/inspect-output.txt](../examples/inspect-output.txt)
 
 Browse indexed x402-compatible APIs.
 
+Example: [examples/registry.json](../examples/registry.json)
+
+### `x402cli registry export`
+
+Export registry metadata as JSON for indexed x402 APIs.
+
+### `x402cli registry inspect <api-id>`
+
+Inspect detailed metadata for a listed x402 API.
+
+Example: [examples/weather-api-detail.json](../examples/weather-api-detail.json)
+
 ### `x402cli mcp <api>`
 
 Preview how an API could be documented for future MCP-ready agent workflows.
@@ -45,6 +57,8 @@ Example output: [examples/demo-flow.txt](../examples/demo-flow.txt)
 | `scan` | Planned (web simulation only) |
 | `inspect` | Planned (web simulation only) |
 | `registry` | Planned (web preview only) |
+| `registry export` | Planned |
+| `registry inspect` | Planned |
 | `mcp` | Planned (research) |
 | `builder-code` | Planned (research) |
 | `demo` | Planned (web simulation only) |

@@ -2,18 +2,23 @@
 
 All notable project updates. Website and CLI evolve independently.
 
-## [0.3.0] — 2026
+## [0.3.0] — Registry Metadata Layer
 
 ### Added
-- GitHub docs restructure: overview, x402-flow, MCP, MPP research
-- Registry schema and example JSON files
-- MCP-ready workflow documentation
-- `examples/` directory with scan, inspect, and demo output samples
+- Public registry JSON example ([examples/registry.json](examples/registry.json))
+- API detail metadata examples (weather, market, agent, content)
+- Registry schema updates with `id` field and v0.3 fields
+- Example curl request documentation
+- HTTP 402 response examples in detail metadata
+- MCP-ready metadata fields
+- Builder Code / ERC-8021 attribution research fields
+- [Registry Metadata Layer](docs/registry-metadata-layer.md) documentation
+- [API Detail Pages](docs/api-detail-pages.md) documentation
 
-### Changed
-- Positioning: experimental discovery and testing layer
-- README intro aligned with MCP / MPP research narrative
-- Roadmap phases updated (MCP metadata, MPP research, CLI package)
+### Website (not in this repo)
+- Live `registry.json` at x402cli.xyz
+- Per-API detail pages under `/registry/<api-id>`
+- Registry page updates with View Details and public JSON link
 
 ---
 
@@ -26,6 +31,8 @@ All notable project updates. Website and CLI evolve independently.
 - Demo API subdomain (`api.x402cli.xyz`) with HTTP 402 endpoints
 - GitHub project hub (this repository)
 - X profile [@x402cli](https://x.com/x402cli)
+- MCP-ready workflow documentation
+- MPP / Tempo research notes
 
 ### Changed
 - Visual polish: dark terminal theme, responsive layout
@@ -47,7 +54,6 @@ All notable project updates. Website and CLI evolve independently.
 ## Planned
 
 ### Future
-- Real x402 endpoint detection
+- Real x402 endpoint detection (Phase 3)
 - Base / USDC payment flow research
-- MCP-ready API metadata tooling
 - Installable CLI package (TBD)

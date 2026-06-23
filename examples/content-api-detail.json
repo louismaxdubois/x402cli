@@ -1,0 +1,34 @@
+{
+  "id": "content-api",
+  "name": "Content API",
+  "category": "Content",
+  "endpoint": "https://api.x402cli.xyz/content",
+  "network": "base",
+  "asset": "USDC",
+  "price": "0.001",
+  "paymentProtocol": "x402",
+  "mcpReady": "planned",
+  "builderCode": "planned",
+  "attributionStandard": "ERC-8021 research",
+  "status": "demo",
+  "description": "Example content delivery endpoint using HTTP 402.",
+  "exampleCurl": "curl -i \"https://api.x402cli.xyz/content\"",
+  "exampleHttp402": {
+    "x402Version": 1,
+    "error": "Payment Required",
+    "message": "This is a demo x402 endpoint on api.x402cli.xyz",
+    "accepts": [
+      {
+        "scheme": "exact",
+        "network": "base",
+        "maxAmountRequired": "1000",
+        "resource": "https://api.x402cli.xyz/content",
+        "description": "Content API — demo endpoint (0.001 USDC per request)",
+        "payTo": "0x0000000000000000000000000000000000000000",
+        "asset": "USDC",
+        "mimeType": "application/json"
+      }
+    ]
+  },
+  "disclaimer": "Demo/static metadata only. No real payment execution."
+}

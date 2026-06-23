@@ -8,7 +8,15 @@ x402 CLI is an experimental discovery and testing layer for x402-powered APIs on
 
 It focuses on HTTP 402 payment inspection, API registry exploration, Base + USDC payment flow research, future MCP-ready agent workflows, and Builder Code / ERC-8021 attribution research.
 
-> Status: early experimental development.
+> Status: early experimental development — **v0.3 Registry Metadata Layer**.
+
+## v0.3 — Registry Metadata Layer
+
+v0.3 introduces a structured registry metadata layer for x402-powered APIs.
+
+This includes public registry JSON examples, API detail metadata, HTTP 402 response examples, curl examples, MCP-ready workflow fields, and Builder Code attribution research fields.
+
+The production website frontend source is not included in this repository.
 
 ## Website
 
@@ -60,6 +68,8 @@ The production website frontend source is not included in this repository at thi
 x402cli scan <url>
 x402cli inspect <url>
 x402cli registry
+x402cli registry export
+x402cli registry inspect <api-id>
 x402cli mcp <api>
 x402cli builder-code <api>
 x402cli demo
@@ -78,6 +88,8 @@ Builder Code support is research/planned only. x402 CLI does not currently appen
 | [Commands](docs/commands.md) | Planned CLI reference |
 | [Registry](docs/registry.md) | API registry preview |
 | [Registry Schema](docs/registry-schema.md) | Registry entry schema |
+| [Registry Metadata Layer](docs/registry-metadata-layer.md) | v0.3 structured metadata layer |
+| [API Detail Pages](docs/api-detail-pages.md) | Per-API detail documentation |
 | [MCP-ready Workflows](docs/mcp-ready-workflows.md) | Agent workflow research |
 | [Builder Codes Research](docs/builder-codes.md) | ERC-8021 attribution metadata |
 | [MPP / Tempo Research](docs/mpp-tempo-research.md) | Future compatibility research |
