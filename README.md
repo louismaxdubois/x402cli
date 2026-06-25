@@ -32,17 +32,17 @@ Holding or trading $X402CLI is optional and not required to use the website, doc
 |---|---|
 | **Network** | Base |
 | **Symbol** | `$X402CLI` |
-| **Contract** | `0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3` |
+| **Contract** | `0x3dee264121f62e6983dac48d75d8980cfafadba3` |
 
 ### Trade $X402CLI
 
 | Platform | Link |
 |----------|------|
-| BANKR | [bankr.bot/launches](https://bankr.bot/launches/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
-| GMGN.AI | [gmgn.ai/base/token](https://gmgn.ai/base/token/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
-| Uniswap | [Swap on Uniswap](https://app.uniswap.org/swap?chain=base&outputCurrency=0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
-| Dexscreener | [Chart on Dexscreener](https://dexscreener.com/base/0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
-| PancakeSwap | [Swap on PancakeSwap](https://pancakeswap.finance/swap?chain=base&outputCurrency=0x6fBEb18fc6Ab14b170EcfB21c9a2f2384b155bA3) |
+| BANKR | [bankr.bot/launches](https://bankr.bot/launches/0x3dee264121f62e6983dac48d75d8980cfafadba3) |
+| GMGN.AI | [gmgn.ai/base/token](https://gmgn.ai/base/token/0x3dee264121f62e6983dac48d75d8980cfafadba3) |
+| Uniswap | [Swap on Uniswap](https://app.uniswap.org/swap?chain=base&outputCurrency=0x3dee264121f62e6983dac48d75d8980cfafadba3) |
+| Dexscreener | [Chart on Dexscreener](https://dexscreener.com/base/0x3dee264121f62e6983dac48d75d8980cfafadba3) |
+| PancakeSwap | [Swap on PancakeSwap](https://pancakeswap.finance/swap?chain=base&outputCurrency=0x3dee264121f62e6983dac48d75d8980cfafadba3) |
 
 Follow **[@x402cli on X](https://x.com/x402cli)** for token updates, launches, and project news.
 
